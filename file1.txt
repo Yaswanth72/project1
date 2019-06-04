@@ -1,2 +1,6 @@
 this is my first file to modify
+<<<<<<< HEAD
 this is my local change
+=======
+This is remote modified file
+>>>>>>> 36d147645a1d10f67d77ff821772c8db97cfb67d
